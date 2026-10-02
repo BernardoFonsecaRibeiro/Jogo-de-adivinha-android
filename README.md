@@ -2,7 +2,7 @@
 
 **Disciplina de Desenvolvimento Mobile — Aula 15: Navegação entre Activities e Transferência de Dados**
 
-Este projeto é um aplicativo mobile Android desenvolvido em **Kotlin** para exercitar os conceitos de navegação entre telas (`Activities`) e transferência de dados utilizando `Intent` e `extras`.
+Este projeto é um aplicativo mobile Android desenvolvido em **Kotlin** para exercitar os conceitos de navegação entre telas (`Activities`) e transferência de dados utilizando `Intent` e `extras`. Feito por Bernardo Ribeiro
 
 ---
 
